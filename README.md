@@ -1,6 +1,6 @@
 # Fire Exposure Index - FEI
 ## Elaborated by Ana Larissa Ribeiro de Freitas
-### Article: Freitas et al., 2022.
+### Article: de Freitas et al., 2023.
 
 This panel was produced to share the results of the article "Fire Exposure Index as a tool to guide prevention and management" presented in Research Topic: Integrating Physical and Social Sciences for Sustainable Development Goals at the Frontiers of Physics.
 
